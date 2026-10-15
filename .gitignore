@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.cache/
+*.pt
+*.npy
+data/
+pairs/

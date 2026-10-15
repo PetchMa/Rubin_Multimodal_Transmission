@@ -1,0 +1,7 @@
+torch
+numpy
+scipy
+healpy
+astropy
+pyarrow
+tqdm
